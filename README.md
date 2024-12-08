@@ -8,8 +8,5 @@ This app uses JavaScript, HTML, and CSS for the frontend. It fetches artist data
 ### Purpose
 To practice integrating an external API (Last.fm), along with enhancing skills in JavaScript, HTML, CSS, and working with a Node.js server.
 
-### Deployment
-This app can be run locally by following the setup instructions below.
-
 ### Created By
 Veronika Pollastrini - December 2024
